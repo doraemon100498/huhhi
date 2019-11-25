@@ -1,0 +1,61 @@
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\dorae\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Data\Contacts.txt
+E:\Visual Studio\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmAddContact.resources
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmAddContact.resources
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmAddGroup.resources
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\dorae\OneDrive\Máy tính\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Migrations.khoitaodb.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Migrations.khoitaodb.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmThemLienHe.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmThemNhom.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ThongBaoLienHe.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ThongBaoNhom.resources
+E:\Visual Studio\kiemtra-master\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SuaLH.resources
